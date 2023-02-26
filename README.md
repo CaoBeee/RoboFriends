@@ -21,6 +21,9 @@ If you find any bugs or issues with RoboFriends, please feel free to create a ne
 RoboFriends was built using the following libraries and tools:
 
 [React](https://reactjs.org/): A popular JavaScript library for building user interfaces
+
 [Create React App](https://reactjs.org/docs/create-a-new-react-app.html): A tool for creating React applications quickly and easily
+
 [Tachyon](https://tachyons.io/): A responsive and mobile-friendly CSS framework that emphasizes simplicity, modularity, and a functional CSS approach.
+
 [JSONPlaceholder](https://jsonplaceholder.typicode.com/): Free fake API for testing and prototyping.
