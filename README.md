@@ -5,8 +5,10 @@ RoboFriends is a simple web app that is a list of robotic friends with a search 
 ## Getting Started
 To get started, clone this repository to your local machine and navigate to the project directory. Then, run the following commands in your terminal:
 
-npm install
-npm start
+1. npm install
+
+2. npm start
+
 This will install all the necessary dependencies and start the development server. You can now view the app in your web browser at http://localhost:3000.
 
 ### Usage
