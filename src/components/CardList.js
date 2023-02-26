@@ -1,5 +1,5 @@
-import React from "react";
-import Card from "./Card";
+import React from 'react'
+import Card from './Card'
 
 const CardList = ({ robots }) => {
   const cardsArray = robots.map((user, i) => {
@@ -10,9 +10,9 @@ const CardList = ({ robots }) => {
         name={robots[i].name}
         email={robots[i].email}
       />
-    );
-  });
-  return <div>{cardsArray}</div>;
-};
+    )
+  })
+  return <div>{cardsArray}</div>
+}
 
-export default CardList;
+export default CardList
