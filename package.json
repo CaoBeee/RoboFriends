@@ -1,7 +1,7 @@
 {
   "name": "robofriends",
   "version": "0.1.0",
-  "homepage": "https://caobeee.github.io/RoboFriends",
+  "homepage": "https://caobeee.github.io/RoboFriends/",
   "private": true,
   "dependencies": {
     "@svgr/webpack": "^6.5.1",
