@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "homepage": "https://caobeee.github.io/RoboFriends/",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@svgr/webpack": "^6.5.1",
     "@testing-library/jest-dom": "^5.16.5",
